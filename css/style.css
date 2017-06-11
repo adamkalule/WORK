@@ -1,0 +1,83 @@
+body{
+    margin:0;
+}
+.upper{
+    padding: 10px;
+    background-color: darkblue;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.logo{
+    margin-left: 20px;
+}
+.button{
+    margin-bottom: 20px;
+    margin-right: 30px;
+}
+.middle{
+    padding: 60px;
+    background-color: white;
+    column-count: 3;
+}
+.box1{
+    border: 1px solid black;
+    width: 252px;
+    height: 350px;
+    text-align: center;
+}
+.box11{
+    border: 1px solid gray;
+    width: 250px;
+    height: 25px;
+    text-align: right;
+    background-color: whitesmoke;
+}
+.box111{
+    text-align: center;
+    margin-top: 130px;
+    color: blue;
+}
+.box2{
+    border: 1px solid black;
+    width: 252px;
+    height: 350px;
+    text-align: center;
+}
+.box22{
+    border:1px solid gray;
+    width: 250px;
+    height: 25px;
+    text-align: right;
+    background-color: whitesmoke;
+    margin-right: 10px;
+}
+.box222{
+    text-align: center;
+    margin-top: 130px;
+    color: blue;
+}
+.box3{
+    border: 1px solid black;
+    width: 252px;
+    height: 350px;
+    text-align: center;
+}
+.box33{
+    border: 1px solid gray;
+    width: 250px;
+    height: 25px;
+    text-align: right;
+    background-color: whitesmoke;
+}
+.box333{
+    text-align: center;
+    margin-top: 130px;
+    color:blue;
+}
+.lower{
+    padding: 30px;
+    background-color: whitesmoke;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 25px;
+}
